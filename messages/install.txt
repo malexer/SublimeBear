@@ -6,5 +6,6 @@ Currently only one command is supported: create note from the selected text.
 Quick start
 ~~~~~~~~~~~
 
-Select the text and press <kbd>Ctrl</kbd>+<kbd>Option</kbd>+<kbd>N</kbd>.
+Select the text and press: Ctrl + Option + N
+
 The whole file will be used if nothing is selected.
