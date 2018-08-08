@@ -1,0 +1,3 @@
+[
+    {"keys": ["ctrl+alt+n"], "command": "bear_create_note"}
+]
