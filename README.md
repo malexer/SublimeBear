@@ -1,6 +1,6 @@
 # Sublime Bear
 
-This plugin helps to integrate Sublime Text with [Bear](http://www.bear-writer.com) App for taking notes.
+This plugin helps to integrate Sublime Text with [Bear App](http://www.bear-writer.com) for taking notes.
 
 Currently only one command is supported: create note from the selected text.
 
