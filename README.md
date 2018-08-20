@@ -9,7 +9,7 @@ Currently only one command is supported: create note from the selected text.
 Install using Package Control:
 
 1. Package Control: Install Package
-2. Select by name `Class Navigator`
+2. Select by name `Bear App`
 
 
 # Usage
