@@ -14,7 +14,8 @@ Install using Package Control:
 
 # Usage
 
-Select the text and press <kbd>Ctrl</kbd>+<kbd>Option</kbd>+<kbd>N</kbd>.
+Call `Command Palette` and run command "Bear App: Create Note from selection".
+
 The whole file will be used if nothing is selected.
 
 You should be switched to Bear App with a new note created.

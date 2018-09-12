@@ -6,6 +6,8 @@ Currently only one command is supported: create note from the selected text.
 Quick start
 ~~~~~~~~~~~
 
-Select the text and press: Ctrl + Option + N
+Call `Command Palette` and run command "Bear App: Create Note from selection".
 
 The whole file will be used if nothing is selected.
+
+You should be switched to Bear App with a new note created.
