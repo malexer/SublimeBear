@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Sublime Bear: Create Note from selection",
+        "caption": "Bear App: Create Note from selection",
         "command": "bear_create_note"
     }
 ]
