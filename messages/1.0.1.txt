@@ -4,3 +4,7 @@ Version 1.0.1
 Fixed:
 
 * Readme install instructions.
+
+Removed:
+
+* Default keybindings.
