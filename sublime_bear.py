@@ -1,5 +1,5 @@
-import subprocess
 from urllib.parse import quote
+import webbrowser
 
 import sublime
 import sublime_plugin
@@ -30,8 +30,7 @@ class BearApi(object):
         return quote(s)
 
     def _open_url(self, url):
-        cmd = ('osascript', '-e', 'open location "%s"' % url)
-        subprocess.call(cmd)
+        webbrowser.open(url)
 
 
 class BearNote(object):
